@@ -13,7 +13,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: Görkem Tosun # add your name
 author-pic: ProfilePic.jpg
-about-author: My name is Görkem Tosun. I am an engineer. This Blog will present my various studies about almost everything that I am involved to.
+about-author: This Blog will present my various studies about almost everything that I am involved to.
 
 # Contact links
 phone: +905554493747
@@ -27,9 +27,6 @@ pinterest: # Add your Pinterest handle
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier.
-
-# Disqus
-discus_identifier: mr-brown # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
