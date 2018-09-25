@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Converting Acustic Drum to Electronic Drum - My personal blog - Görkem Tosun</title>
+	<meta name="description" content="">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta property="og:image" content="">
+	<link rel="shortcut icon" href="/assets/img/favicon/favicon.ico" type="image/x-icon">
+	<link rel="apple-touch-icon" href="/assets/img/favicon/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/assets/img/favicon/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/assets/img/favicon/apple-touch-icon-114x114.png">
+	<!--Bootstrap -->
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	<!-- Chrome, Firefox OS and Opera -->
+	<meta name="theme-color" content="#311e3e">
+	<!-- Windows Phone -->
+	<meta name="msapplication-navbutton-color" content="#311e3e">
+	<!-- iOS Safari -->
+	<meta name="apple-mobile-web-app-status-bar-style" content="#311e3e">
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="/assets/fonts/font-awesome/css/font-awesome.min.css">
+	<!-- Styles -->
+	<link rel="stylesheet" href="/assets/css/main.css"">
+</head>
+
+<body>
+  <div class="flex-container">
+  <header class="main-header">
+  <div class="wrapper">
+    <div class="header-flex">
+      <div class="menu-icon-container">
+        <span class="menu-icon"><i class="fa fa-bars" aria-hidden="true"></i></span>
+      </div>
+      <nav class="main-nav">
+        <span class="menu-icon-close"><i class="fa fa-times" aria-hidden="true"></i></span>
+        <ul>
+          <li><a href="/">Blog</a></li>
+          <li><a href="/about">About</a></li>
+        </ul>
+      </nav>
+      <p class="logo"><a href="/">Görkem Tosun</a></p>
+      <div class="search-icon-container">
+        <span class="search-icon"><a><i class="fa fa-search" aria-hidden="true"></i></a></span>
+      </div>
+    </div>
+  </div>
+</header> <!-- End Header -->
+
+  <article class="article-page">
+    <div class="page-image">
+      <div class="cover-image" style="background: url(/assets/img/eDrum/final.jpg) center no-repeat; background-size: cover;"></div>
+    </div>
+    <div class="wrapper">
+      <div class="page-content">
+        <div class="header-page">
+          <h1 class="page-title">Converting Acustic Drum to Electronic Drum</h1>
+          <div class="page-date"><time datetime="2018-09-19 00:00:00 +0200">2018, Sep 19</time></div>
+        </div>
+        <p>I love to play drums. I really enjoy it and in 2010, I started to a project in order to playing drums in the Home. We have been living in an apartment flat and because it makes too much sound, I couldn’t have the opportunity to play drums at home freely.
+While I was surfing in one drum related forum, I encounter with a title about converting acoustic drums to electronic drums. I red all the instructions and messages then I decided to build my own.
+Despite all the failure possibilities, I afford all the expenses(tools and materials that I need). Also, I didn’t have any experiences about the subjects that included in the project. I gained so much skills while I was doing that. Electronic skills, soldering skills, mechanical skills and much more. I researched and learnt almost everything from internet.</p>
+
+<p>Eventually; I managed to succesfully complete the drums. This was quite satisfactory for me. Most importantly; I made this with a little budget, besides that it isn’t a cheap worhtless drum. It can compete with middle quality electronic drums on the market. The development of this Project still ongoing.</p>
+
+<h2 id="1-setup">1. Setup</h2>
+
+<p>For this section I will write about the basic drum rack setup. To hold all the drums in the setup, I used my old akita come 1 rack system. It was kind of a drum toy  which my dad bought it to me as a birthday present. I took my first steps to drumming with that toy.</p>
+
+<p>Here you can see;</p>
+
+<table class="image">
+    <caption align="bottom">Akita Come1</caption>
+    <tr><td><img src="/blog/assets/img/eDrum/akitaCome1.jpg" alt="Akita Come1" /></td></tr>
+</table>
+
+<p>I had 3 whole drums (1-tom, 2-floor tom and 3-kick drum)</p>
+
+<table class="image">
+    <caption align="bottom">I kept the kick drum out of the setup because it was too big.</caption>
+    <tr><td><img src="/blog/assets/img/eDrum/100_3450.jpg" alt="I kept the kick drum out of the setup because it was too big." /></td></tr>
+</table>
+<p><br /><br /></p>
+<table class="image">
+    <caption align="bottom">I divide the tom and floor tom into two.</caption>
+    <tr><td><img src="/blog/assets/img/eDrum/100_3447.jpg" alt="I divide the tom and floor tom into two." /></td></tr>
+</table>
+
+<p>Additionally, I bought another half drum from a friend as a snare drum. Also, I used old drum’s pads as cymbals. Eventually,  I made some modifications on the rack system and finally it became like this;</p>
+
+<table class="image">
+    <caption align="bottom"></caption>
+    <tr><td><img src="/blog/assets/img/eDrum/CIMG5416.jpg" alt="" /></td></tr>
+</table>
+
+<h2 id="2-triggers">2. Triggers</h2>
+
+<p>Electronic drums works with triggers which located on the drum head. There is a lot of drum trigger designs. Some of them under the drums and some of them externally integrated with drums. In my setup, I build my own triggers with piezos. <a href="https://cdn.sparkfun.com//assets/parts/4/6/8/9/10293_01.jpg" title="Piezo">Piezo</a> is an electronic component which basically converts vibration into electronic signals. Basic trigger design is making cone from foams and putting that foams on the piezo as you can see from below picture.(Picture collected from Vdrums forum)</p>
+
+<p><img src="/blog/assets/img/eDrum/piezo_dimensions.gif" alt="Piezo" /></p>
+
+<p>I installed a rack under the drum heads to put that trigger on it.</p>
+
+<table class="image">
+    <caption align="bottom">Piezo trigger installation rack</caption>
+    <tr><td><img src="/blog/assets/img/eDrum/100_3448.jpg" alt="Piezo trigger installation rack" /></td></tr>
+</table>
+
+<table class="image">
+    <caption align="bottom">Foam Cone</caption>
+    <tr><td><img src="/blog/assets/img/eDrum/100_4668.jpg" alt="Foam Cone" /></td></tr>
+</table>
+
+<table class="image">
+    <caption align="bottom">Drums with rack</caption>
+    <tr><td><img src="/blog/assets/img/eDrum/100_3444.jpg" alt="Drums with rack" /></td></tr>
+</table>
+
+<table class="image">
+    <caption align="bottom">Drums with trigger</caption>
+    <tr><td><img src="/blog/assets/img/eDrum/100_4669.jpg" alt="Drums with trigger" /></td></tr>
+</table>
+
+<h2 id="3-drum-module">3. Drum Module</h2>
+
+<p>As a drum module first I used medeli dd-505. I bought it online. It was nice at first but it doesn’t provide enough sensivity. So, I decided to build my own drum module. There was a drum module schematic in the site that I encountered in the first place. <a href="http://edrum.info/" title="eDrum">Admir’s Site</a> It is basically a midi trigger, which is gonna process the signals that comes from piezos and convert them into midi signals/notes to send to a computer according to their velocities. I failed at first but finally I manage to built it. I made the Printed Circuit Boards with ironing method, soldered all the components and done the wiring. I asked for help to install the given firmware to PIC from a local electronics store. I tested it with superiour drummer in cubase. You can see the below videos;</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5nyWvtzhyjw" frameborder="0" allowfullscreen=""></iframe>
+<p><br /></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A9RaYjOALTI" frameborder="0" allowfullscreen=""></iframe>
+
+<table class="image">
+    <caption align="bottom">Final version of the drum module</caption>
+    <tr><td><img src="/blog/assets/img/eDrum/CIMG5068.jpg" alt="Final version of the drum module" /></td></tr>
+</table>
+
+<table class="image">
+    <caption align="bottom">Final version of the whole drum</caption>
+    <tr><td><img src="/blog/assets/img/eDrum/final.jpg" alt="Final version of the whole drum" /></td></tr>
+</table>
+
+<p>It was a perfect project which has extended my vision. I enjoyed all the steps while I was passing over them. From the technical aspect; It was not perfect like high priced e-drum, but it was good enough to practice and improve your drumming.</p>
+
+<p>Thanks for reading.</p>
+
+
+        <div class="page-footer">
+          <div class="page-tag">
+            <span>Tags:</span>
+            
+            <a href="/tags#Project" class="tag">| Project</a>
+            
+            <a href="/tags#DIY" class="tag">| DIY</a>
+            
+          </div><!-- End Tags -->
+          <div class="page-share">
+            <span>Share:</span>
+            <a href="https://twitter.com/intent/tweet?text=Converting Acustic Drum to Electronic Drum&url=/DIY-Edrum/" title="Share on Twitter" rel="nofollow" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+            <a href="https://facebook.com/sharer.php?u=/DIY-Edrum/" title="Share on Facebook" rel="nofollow" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            <a href="https://plus.google.com/share?url=/DIY-Edrum/" title="Share on Google+" rel="nofollow" target="_blank"><i class="fa fa-google" aria-hidden="true"></i></a>
+          </div><!-- End Share -->
+        </div>
+        <section class="author-box">
+  <img src="/assets/img/ProfilePic.jpg" alt="Görkem Tosun" class="author-img">
+  <div class="author-desc">
+    <h2>Görkem Tosun</h2>
+    <p>My name is Görkem Tosun. I am an engineer. This Blog will present my various studies about almost everything that I am involved to.</p>
+    <ul>
+      
+        <li class="email"><a href="mailto:gorkemtosun@gmail.com"><i class="fa fa-envelope-o"></i></a></li>
+      
+      
+        <li class="phone"><a href="tel:905554493747"><i class="fa fa-phone"></i></a></li>
+      
+      
+        <li class="website"><a href="http://https://gorkemtosun.com" target="_blank"><i class="fa fa-globe"></i></a></li>
+      
+      
+        <li class="twitter"><a href="https://twitter.com/@tosungo" target="_blank"><i class="fa fa-twitter"></i></a></li>
+      
+    </ul>
+  </div>
+</section>
+
+        <div class="recent-box">
+  <h2 class="recent-title">Recent post</h2>
+  <div class="recent-list">
+    
+      
+        <a href="/Commodore-C286-LT-Restoration/" class="recent-item" style="background: url(/assets/img/commodore/SDC10097.jpg) center no-repeat; background-size: cover;"><span>Commodore C286-LT Restoration</span></a>
+      
+    
+      
+        <a href="/Weird-Sound-Generator/" class="recent-item" style="background: url(/assets/img/weirdSoundGenerator/1.jpg) center no-repeat; background-size: cover;"><span>Weird Sound Generator</span></a>
+      
+    
+      
+        <a href="/DIY-Midi-Keyboard/" class="recent-item" style="background: url(/assets/img/midiKeyboard/1.jpg) center no-repeat; background-size: cover;"><span>Arduino Based Midi Keyboard</span></a>
+      
+    
+      
+        <a href="/DIY-FX-Projects/" class="recent-item" style="background: url(/assets/img/fxProjects/7.jpg) center no-repeat; background-size: cover;"><span>Fx-Projects</span></a>
+      
+    
+  </div>
+</div> <!-- End Recent-Box -->
+
+        <div class="newsletter" id="mc_embed_signup">
+  <h2 class="newsletter-title">Newsletter</h2>
+  <div class="form-container">
+    <p>Subscribe here to get our latest updates</p>
+    <form action="//" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+      <label class="screen-reader-text" for="mce-EMAIL">Email Address</label>
+      <div class="newsletter-box" id="mc_embed_signup_scroll">
+        <input type="email" name="EMAIL" placeholder="Email address" class="email-input" id="mce-EMAIL" required>
+        <input type="submit" value="Subscribe" name="subscribe" class="subscribe-btn" id="mc-embedded-subscribe">
+      </div>
+    </form>
+  </div>
+</div> <!-- End Newsletter -->
+
+        <section class="comment-area">
+  <div class="comment-wrapper">
+    
+    <div id="disqus_thread" class="article-comments"></div>
+    <script>
+      (function() {
+          var d = document, s = d.createElement('script');
+          s.src = '//mr-brown.disqus.com/embed.js';
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+      })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    
+  </div>
+</section> <!-- End Comment Area -->
+
+      </div>
+    </div> <!-- End Wrapper -->
+  </article>
+  <div class="search-box">
+  <div class="wrapper">
+    <div class="search-grid">
+      <form class="search-form">
+        <div id="search-container">
+          <input type="text" id="search-input" class="search" placeholder="Search">
+        </div>
+      </form>
+      <ul id="results-container" class="results-search"></ul>
+      <div class="icon-close-container">
+        <span class="search-icon-close"><i class="fa fa-times" aria-hidden="true"></i></span>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <footer class="main-footer">
+  <div class="copyright">
+    <p>2018 &copy; Görkem Tosun</p>
+  </div>
+</footer> <!-- End Footer -->
+
+</div>
+
+  <!-- JS -->
+<script src="/assets/js/jquery-3.2.1.min.js"></script>
+<script src="/assets/js/jekyll-search.js"></script>
+<script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+    noResultsText: 'No results found',
+    fuzzy: false,
+    exclude: ['Welcome']
+  });
+</script>
+<script src="/assets/js/main.js"></script>
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', '', 'auto');
+  ga('send', 'pageview');
+</script> <!-- End Analytics -->
+
+</body>
+</html>

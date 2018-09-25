@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-09-26T00:04:15+02:00</updated><id>/feed.xml</id><title type="html">My personal blog - Görkem Tosun</title><subtitle>This Blog will present my various studies about almost everything that I am involved to. Also, I am geomatics engineer. Interested in programming, robotics, and all kind of technology.  #Write an awesome description for your new site here. You can edit this #line in _config.yml. It will appear in your document head meta (for #Google search results) and in your feed.xml site description.
+</subtitle><author><name>Görkem Tosun</name></author><entry><title type="html">Commodore C286-LT Restoration</title><link href="/Commodore-C286-LT-Restoration/" rel="alternate" type="text/html" title="Commodore C286-LT Restoration" /><published>2018-09-25T00:00:00+02:00</published><updated>2018-09-25T00:00:00+02:00</updated><id>/Commodore-C286-LT-Restoration</id><content type="html" xml:base="/Commodore-C286-LT-Restoration/">&lt;p&gt;I love flea markets and I always visit if I found one in everycity. When I was in my parent’s place dad told me about the flea market that opened for 2 days nearby. I immediately went there and take a look around.
+It was a rainy day and I was all wet but no problem. :) Then I saw a laptop looking device on one of the benches and got interested. It was 10 EUR at the first time but I negotiated with the seller because the device was also wet and was not sure that it is working or not. Anyway, I convinced him to pay him only 0.5 EUR. (very good negotiations skills..)&lt;/p&gt;
+
+&lt;p&gt;I came home and disassembled all the parts on the laptop and leave it for one day to dry. On the next day, I assembled the parts and when I turned it on there were some blink in the monitor but not consistent. Searched online about that problem and someguys written about the same issue. There are analog fade control on the right side of the laptop. I suspected about it was not working well. I replaced with some potentiometer and it worked! It was really good feeling to see some pixelated writings on the screen. :)&lt;/p&gt;
+
+&lt;p&gt;The computer is warning about the hard disk failure and I need to replace it with a new one cause obviously it is a hardware error. Also, it sounds weird while trying to read from the disk. I found the same hard disk on some online store but don’t have opportunity to order it to Turkey(High price and taxes). I will deal with that issue in another day. :)&lt;/p&gt;</content><author><name>Görkem Tosun</name></author><category term="Project" /><category term="DIY" /><summary type="html">I love flea markets and I always visit if I found one in everycity. When I was in my parent’s place dad told me about the flea market that opened for 2 days nearby. I immediately went there and take a look around. It was a rainy day and I was all wet but no problem. :) Then I saw a laptop looking device on one of the benches and got interested. It was 10 EUR at the first time but I negotiated with the seller because the device was also wet and was not sure that it is working or not. Anyway, I convinced him to pay him only 0.5 EUR. (very good negotiations skills..)</summary></entry><entry><title type="html">Weird Sound Generator</title><link href="/Weird-Sound-Generator/" rel="alternate" type="text/html" title="Weird Sound Generator" /><published>2018-09-20T00:00:00+02:00</published><updated>2018-09-20T00:00:00+02:00</updated><id>/Weird-Sound-Generator</id><content type="html" xml:base="/Weird-Sound-Generator/">&lt;p&gt;After making some guitar pedals I decided to build something bigger. My interest slightly moved to synthesizers and their analog sound which I enjoy a lot. I was thinking about to making one but they were so complicated and timeconsuming to build. So, I decided to make something that would be as an introduction to me. “Music From Outer Space” &lt;a href=&quot;http://musicfromouterspace.com/&quot;&gt;MFOS&lt;/a&gt; is a great site to find such a project to build. There are a lot of cool synthesizer projects in their site. Weird Sound Generator is a elementary project and you can find all the schematics and build instructions on MFOS site. Link –&amp;gt; &lt;a href=&quot;http://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&amp;amp;PROJARG=WSG2010/wsg_page1.html&amp;amp;VPW=1338&amp;amp;VPH=500&quot;&gt;WSG&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Weird Sound Generator(WSG) basically has 2 oscilator and some modulation units on each oscilator. It is really fun to play with it. You can see from below video, I am randomly tweaking all the pots and switches to make crazy sounds. You can scare your neighbours off with that if you want.. :)&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Mb_8EBVqZBs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>Görkem Tosun</name></author><category term="Project" /><category term="DIY" /><summary type="html">After making some guitar pedals I decided to build something bigger. My interest slightly moved to synthesizers and their analog sound which I enjoy a lot. I was thinking about to making one but they were so complicated and timeconsuming to build. So, I decided to make something that would be as an introduction to me. “Music From Outer Space” MFOS is a great site to find such a project to build. There are a lot of cool synthesizer projects in their site. Weird Sound Generator is a elementary project and you can find all the schematics and build instructions on MFOS site. Link –&amp;gt; WSG</summary></entry><entry><title type="html">Arduino Based Midi Keyboard</title><link href="/DIY-Midi-Keyboard/" rel="alternate" type="text/html" title="Arduino Based Midi Keyboard" /><published>2018-09-20T00:00:00+02:00</published><updated>2018-09-20T00:00:00+02:00</updated><id>/DIY-Midi-Keyboard</id><content type="html" xml:base="/DIY-Midi-Keyboard/">&lt;p&gt;I always wanted to play piano and after wathcing this &lt;a href=&quot;https://www.youtube.com/watch?v=z840N9P-T2k&quot;&gt;video&lt;/a&gt; and I decided to build something similar. I research a bit and learned how to build such a device with arduino. There were huge amount of information on the internet. Basics need are;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;A proper key set with key matrix along it.&lt;/li&gt;
+  &lt;li&gt;Arduino uno or mega&lt;/li&gt;
+  &lt;li&gt;Suitable casing&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I searched online and also a lot of flea market and finally found a key set which is fitted for my project. It has 64 keys and for that reason I needed to extend my arduino’s digital pin with a semiconductor. I got a lot help from &lt;a href=&quot;http://www.codetinkerhack.com/2012/11/how-to-turn-piano-toy-into-midi.html#more&quot;&gt;Jen Shen’s Site&lt;/a&gt; he also built something like this and I asked him about my problems that I encountered. You can find my questions in below on his blog post. Also, I changed some part of his code according to my design. You can find it also here; &lt;a href=&quot;https://drive.google.com/file/d/14axEuFyu0-OFf8lliA6FxOXe2eYkT7Bu/view?usp=sharing&quot;&gt;Link to code&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For the casing I sketcht a simple design and built it. It was nothing fancy but worked verywell. At last, I couldn’t learn how to play piano but it was fun to build it. You can find a video below that I am testing it first time.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mLeFq4I4QS0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>Görkem Tosun</name></author><category term="Project" /><category term="DIY" /><summary type="html">I always wanted to play piano and after wathcing this video and I decided to build something similar. I research a bit and learned how to build such a device with arduino. There were huge amount of information on the internet. Basics need are;</summary></entry><entry><title type="html">Fx-Projects</title><link href="/DIY-FX-Projects/" rel="alternate" type="text/html" title="Fx-Projects" /><published>2018-09-20T00:00:00+02:00</published><updated>2018-09-20T00:00:00+02:00</updated><id>/DIY-FX-Projects</id><content type="html" xml:base="/DIY-FX-Projects/">&lt;p&gt;These are the some of the guitar pedals that I have made for my friends and some customers. I applied my own designs with etching technique on a few of them. All the schematics and electronics available on various guitar pedal forums. Like &lt;a href=&quot;http://www.tonepad.com/&quot;&gt;Tonepad&lt;/a&gt;&lt;/p&gt;</content><author><name>Görkem Tosun</name></author><category term="Project" /><category term="DIY" /><summary type="html">These are the some of the guitar pedals that I have made for my friends and some customers. I applied my own designs with etching technique on a few of them. All the schematics and electronics available on various guitar pedal forums. Like Tonepad</summary></entry><entry><title type="html">Converting Acustic Drum to Electronic Drum</title><link href="/DIY-Edrum/" rel="alternate" type="text/html" title="Converting Acustic Drum to Electronic Drum" /><published>2018-09-19T00:00:00+02:00</published><updated>2018-09-19T00:00:00+02:00</updated><id>/DIY-Edrum</id><content type="html" xml:base="/DIY-Edrum/">&lt;p&gt;I love to play drums. I really enjoy it and in 2010, I started to a project in order to playing drums in the Home. We have been living in an apartment flat and because it makes too much sound, I couldn’t have the opportunity to play drums at home freely.
+While I was surfing in one drum related forum, I encounter with a title about converting acoustic drums to electronic drums. I red all the instructions and messages then I decided to build my own.
+Despite all the failure possibilities, I afford all the expenses(tools and materials that I need). Also, I didn’t have any experiences about the subjects that included in the project. I gained so much skills while I was doing that. Electronic skills, soldering skills, mechanical skills and much more. I researched and learnt almost everything from internet.&lt;/p&gt;
+
+&lt;p&gt;Eventually; I managed to succesfully complete the drums. This was quite satisfactory for me. Most importantly; I made this with a little budget, besides that it isn’t a cheap worhtless drum. It can compete with middle quality electronic drums on the market. The development of this Project still ongoing.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-setup&quot;&gt;1. Setup&lt;/h2&gt;
+
+&lt;p&gt;For this section I will write about the basic drum rack setup. To hold all the drums in the setup, I used my old akita come 1 rack system. It was kind of a drum toy  which my dad bought it to me as a birthday present. I took my first steps to drumming with that toy.&lt;/p&gt;
+
+&lt;p&gt;Here you can see;&lt;/p&gt;
+
+&lt;table class=&quot;image&quot;&gt;
+    &lt;caption align=&quot;bottom&quot;&gt;Akita Come1&lt;/caption&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;img src=&quot;/blog/assets/img/eDrum/akitaCome1.jpg&quot; alt=&quot;Akita Come1&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;I had 3 whole drums (1-tom, 2-floor tom and 3-kick drum)&lt;/p&gt;
+
+&lt;table class=&quot;image&quot;&gt;
+    &lt;caption align=&quot;bottom&quot;&gt;I kept the kick drum out of the setup because it was too big.&lt;/caption&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;img src=&quot;/blog/assets/img/eDrum/100_3450.jpg&quot; alt=&quot;I kept the kick drum out of the setup because it was too big.&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;table class=&quot;image&quot;&gt;
+    &lt;caption align=&quot;bottom&quot;&gt;I divide the tom and floor tom into two.&lt;/caption&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;img src=&quot;/blog/assets/img/eDrum/100_3447.jpg&quot; alt=&quot;I divide the tom and floor tom into two.&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Additionally, I bought another half drum from a friend as a snare drum. Also, I used old drum’s pads as cymbals. Eventually,  I made some modifications on the rack system and finally it became like this;&lt;/p&gt;
+
+&lt;table class=&quot;image&quot;&gt;
+    &lt;caption align=&quot;bottom&quot;&gt;&lt;/caption&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;img src=&quot;/blog/assets/img/eDrum/CIMG5416.jpg&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;2-triggers&quot;&gt;2. Triggers&lt;/h2&gt;
+
+&lt;p&gt;Electronic drums works with triggers which located on the drum head. There is a lot of drum trigger designs. Some of them under the drums and some of them externally integrated with drums. In my setup, I build my own triggers with piezos. &lt;a href=&quot;https://cdn.sparkfun.com//assets/parts/4/6/8/9/10293_01.jpg&quot; title=&quot;Piezo&quot;&gt;Piezo&lt;/a&gt; is an electronic component which basically converts vibration into electronic signals. Basic trigger design is making cone from foams and putting that foams on the piezo as you can see from below picture.(Picture collected from Vdrums forum)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/img/eDrum/piezo_dimensions.gif&quot; alt=&quot;Piezo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I installed a rack under the drum heads to put that trigger on it.&lt;/p&gt;
+
+&lt;table class=&quot;image&quot;&gt;
+    &lt;caption align=&quot;bottom&quot;&gt;Piezo trigger installation rack&lt;/caption&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;img src=&quot;/blog/assets/img/eDrum/100_3448.jpg&quot; alt=&quot;Piezo trigger installation rack&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;table class=&quot;image&quot;&gt;
+    &lt;caption align=&quot;bottom&quot;&gt;Foam Cone&lt;/caption&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;img src=&quot;/blog/assets/img/eDrum/100_4668.jpg&quot; alt=&quot;Foam Cone&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;table class=&quot;image&quot;&gt;
+    &lt;caption align=&quot;bottom&quot;&gt;Drums with rack&lt;/caption&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;img src=&quot;/blog/assets/img/eDrum/100_3444.jpg&quot; alt=&quot;Drums with rack&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;table class=&quot;image&quot;&gt;
+    &lt;caption align=&quot;bottom&quot;&gt;Drums with trigger&lt;/caption&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;img src=&quot;/blog/assets/img/eDrum/100_4669.jpg&quot; alt=&quot;Drums with trigger&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;3-drum-module&quot;&gt;3. Drum Module&lt;/h2&gt;
+
+&lt;p&gt;As a drum module first I used medeli dd-505. I bought it online. It was nice at first but it doesn’t provide enough sensivity. So, I decided to build my own drum module. There was a drum module schematic in the site that I encountered in the first place. &lt;a href=&quot;http://edrum.info/&quot; title=&quot;eDrum&quot;&gt;Admir’s Site&lt;/a&gt; It is basically a midi trigger, which is gonna process the signals that comes from piezos and convert them into midi signals/notes to send to a computer according to their velocities. I failed at first but finally I manage to built it. I made the Printed Circuit Boards with ironing method, soldered all the components and done the wiring. I asked for help to install the given firmware to PIC from a local electronics store. I tested it with superiour drummer in cubase. You can see the below videos;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/5nyWvtzhyjw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/A9RaYjOALTI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;table class=&quot;image&quot;&gt;
+    &lt;caption align=&quot;bottom&quot;&gt;Final version of the drum module&lt;/caption&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;img src=&quot;/blog/assets/img/eDrum/CIMG5068.jpg&quot; alt=&quot;Final version of the drum module&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;table class=&quot;image&quot;&gt;
+    &lt;caption align=&quot;bottom&quot;&gt;Final version of the whole drum&lt;/caption&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;img src=&quot;/blog/assets/img/eDrum/final.jpg&quot; alt=&quot;Final version of the whole drum&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;It was a perfect project which has extended my vision. I enjoyed all the steps while I was passing over them. From the technical aspect; It was not perfect like high priced e-drum, but it was good enough to practice and improve your drumming.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading.&lt;/p&gt;</content><author><name>Görkem Tosun</name></author><category term="Project" /><category term="DIY" /><summary type="html">I love to play drums. I really enjoy it and in 2010, I started to a project in order to playing drums in the Home. We have been living in an apartment flat and because it makes too much sound, I couldn’t have the opportunity to play drums at home freely. While I was surfing in one drum related forum, I encounter with a title about converting acoustic drums to electronic drums. I red all the instructions and messages then I decided to build my own. Despite all the failure possibilities, I afford all the expenses(tools and materials that I need). Also, I didn’t have any experiences about the subjects that included in the project. I gained so much skills while I was doing that. Electronic skills, soldering skills, mechanical skills and much more. I researched and learnt almost everything from internet.</summary></entry><entry><title type="html">Building a 3d Printer</title><link href="/DIY-3d-Printer/" rel="alternate" type="text/html" title="Building a 3d Printer" /><published>2018-07-26T00:00:00+02:00</published><updated>2018-07-26T00:00:00+02:00</updated><id>/DIY-3d-Printer</id><content type="html" xml:base="/DIY-3d-Printer/">&lt;p&gt;Hi all, as 3d printers become so popular, I couldn’t stay away without doing anything. At first, I have started to build CNC(computer numerical control)machine but before finishing it, I thought that it would be very noisy to use in my flat. Eventually, I decided to convert it to 3d printer.&lt;/p&gt;
+
+&lt;p&gt;The main key to become successful in this work is ‘reading’. Read as much as you can on the internet. There are tons of information regarding to 3d printers and how to build them. I didn’t need to ask even one question. I was able to find a solution to every problems that I came accross. My main source was  &lt;a href=&quot;https://reprap.org&quot; title=&quot;reprap&quot;&gt;reprap&lt;/a&gt; and its forums.&lt;/p&gt;
+
+&lt;p&gt;My model was Prusa - i3 Steel. I decided to build that model because it is much more rigid and stable comparing to other prusa models. It is an open source 3d printer model that you can find all the necessary information and drawings about it in reprap.org. Building a 3d printer is not so complicated as it sounds. The process is straightforward. First you have to decide which model you are gonna make. You should consider supplying or manufacturing all the materials and parts in your model according to your location and budget. Considering that, I searched online and found proper second hand bodyparts of prusa i3 steel. It was being sold by someone who started to build it but eventually gave up. Also, I have started build my own wooden frame but I concluded to this solution gonna be better because the price was good and it cost much less work to me.
+ For the extruder’s cold end, I ordered all the necessary parts from 3d hubs site. Then I used it with some chinese hot end. Not suprisingly, it failed and clogged after one or two experiments. So I bought a fancy hot end from E3D company. I ordered E3D lite. It is working quite well. I printed almost 200 hundred parts, changed 5 filament rolls, still working seemlessly. It is obvious that, they make attention to material quality and engineering of the product. So my suggestion to you, do not order some unknown 3d printer hot ends or equivalents. It is gonna make you frustrated because maintaining the 3d printer gonna be problematic.&lt;/p&gt;
+
+&lt;p&gt;I used Arduino Mega 256 with RAMPS shield for the electronics. Marvin is on the software side. I checked all the connections with multimeter before the assembly. I tested it out with 3 NEMA23 step motors. There were no problems.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/Printer/IMG_6702.jpg&quot; alt=&quot;3dPrinter&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After whole assembly process done, It was looking like this.&lt;/p&gt;
+
+&lt;p&gt;I tried to use some designed endstops from thingiverse but It was not so convenient because it was lack of fine tune adjustment feature. So, I designed my own end stop for the z-axis in the end. I used sketchup for modeling. It can just attached to step motor and stays stable and also I added fine tuning mechanism to it. It is great to think about something and get it in your hand in minutes like that.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/Printer/IMG_6760.png&quot; alt=&quot;3dPrinter&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/Printer/IMG_6759.png&quot; alt=&quot;3dPrinter&quot; /&gt;&lt;/p&gt;</content><author><name>Görkem Tosun</name></author><category term="Project" /><category term="DIY" /><summary type="html">Hi all, as 3d printers become so popular, I couldn’t stay away without doing anything. At first, I have started to build CNC(computer numerical control)machine but before finishing it, I thought that it would be very noisy to use in my flat. Eventually, I decided to convert it to 3d printer.</summary></entry></feed>
