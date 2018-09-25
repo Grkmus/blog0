@@ -21,17 +21,19 @@ For this section I will write about the basic drum rack setup. To hold all the d
 
 Here you can see;
 
-{% include image.html url="/assets/img/eDrum/akitaCome1.jpg" description="Akita Come1" %}
+![Akita Come1](/assets/img/eDrum/akitaCome1.jpg)
 
 I had 3 whole drums (1-tom, 2-floor tom and 3-kick drum)
 
-{% include image.html url="/assets/img/eDrum/100_3450.jpg" description="I kept the kick drum out of the setup because it was too big." %}
+![Kick Drum](/assets/img/eDrum/akitaCome1.jpg "I kept the kick drum out of the setup because it was too big.")
+
 <br><br>
-{% include image.html url="/assets/img/eDrum/100_3447.jpg" description="I divide the tom and floor tom into two." %}
+
+![Tom Divide](/assets/img/eDrum/100_3447.jpg "I divide the tom and floor tom into two.")
 
 Additionally, I bought another half drum from a friend as a snare drum. Also, I used old drum's pads as cymbals. Eventually,  I made some modifications on the rack system and finally it became like this;
 
-{% include image.html url="/assets/img/eDrum/CIMG5416.jpg" description="" %}
+![Tom Divide](/assets/img/eDrum/CIMG5416.jpg "I divide the tom and floor tom into two.")
 
 ## 2. Triggers
 
@@ -41,13 +43,13 @@ Electronic drums works with triggers which located on the drum head. There is a 
 
 I installed a rack under the drum heads to put that trigger on it.
 
-{% include image.html url="/assets/img/eDrum/100_3448.jpg" description="Piezo trigger installation rack" %}
+![PiezoRack](/assets/img/eDrum/100_3448.jpg "Piezo trigger installation rack")
 
-{% include image.html url="/assets/img/eDrum/100_4668.jpg" description="Foam Cone" %}
+![Foam Cone](/assets/img/eDrum/100_4668.jpg "Foam Cone")
 
-{% include image.html url="/assets/img/eDrum/100_3444.jpg" description="Drums with rack" %}
+![Drum](/assets/img/eDrum/100_3444.jpg "Drums with rack")
 
-{% include image.html url="/assets/img/eDrum/100_4669.jpg" description="Drums with trigger" %}
+![DrumTrigger](/assets/img/eDrum/100_4669.jpg "Drums with trigger")
 
 ## 3. Drum Module
 
@@ -57,9 +59,9 @@ As a drum module first I used medeli dd-505. I bought it online. It was nice at 
 <br>
 {% include youtubePlayer.html id=page.eDrumTestYoutubeId2 %}
 
-{% include image.html url="/assets/img/eDrum/CIMG5068.jpg" description="Final version of the drum module" %}
+![Final](/assets/img/eDrum/CIMG5068.jpg "Final version of the drum module")
 
-{% include image.html url="/assets/img/eDrum/final.jpg" description="Final version of the whole drum" %}
+![Final](/assets/img/eDrum/final.jpg "Final version of the whole drum")
 
 It was a perfect project which has extended my vision. I enjoyed all the steps while I was passing over them. From the technical aspect; It was not perfect like high priced e-drum, but it was good enough to practice and improve your drumming.
 
