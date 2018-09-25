@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building a 3d Printer"
-img: printer/IMG_6702.JPG
+img: printer/IMG_6702.jpg
 tags: [Project, DIY]
 ---
 Hi all, as 3d printers become so popular, I couldn't stay away without doing anything. At first, I have started to build CNC(computer numerical control)machine but before finishing it, I thought that it would be very noisy to use in my flat. Eventually, I decided to convert it to 3d printer.
@@ -13,7 +13,7 @@ My model was Prusa - i3 Steel. I decided to build that model because it is much 
 
 I used Arduino Mega 256 with RAMPS shield for the electronics. Marvin is on the software side. I checked all the connections with multimeter before the assembly. I tested it out with 3 NEMA23 step motors. There were no problems.
 
-![3dPrinter]({{ site.baseurl }}/assets/img/Printer/IMG_6702.JPG)
+![3dPrinter]({{ site.baseurl }}/assets/img/Printer/IMG_6702.jpg)
 
 After whole assembly process done, It was looking like this.
 
