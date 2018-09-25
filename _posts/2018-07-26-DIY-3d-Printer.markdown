@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building a 3d Printer"
-img: printer/IMG_6702.jpg
+img: printer/IMG_6702.JPG
 tags: [Project, DIY]
 ---
 Hi all, as 3d printers become so popular, I couldn't stay away without doing anything. At first, I have started to build CNC(computer numerical control)machine but before finishing it, I thought that it would be very noisy to use in my flat. Eventually, I decided to convert it to 3d printer.
@@ -13,17 +13,15 @@ My model was Prusa - i3 Steel. I decided to build that model because it is much 
 
 I used Arduino Mega 256 with RAMPS shield for the electronics. Marvin is on the software side. I checked all the connections with multimeter before the assembly. I tested it out with 3 NEMA23 step motors. There were no problems.
 
-![3dPrinter]({{ site.baseurl }}/assets/img/Printer/IMG_6702.jpg)
+![3dPrinter]({{ site.baseurl }}/assets/img/Printer/IMG_6702.JPG)
 
 After whole assembly process done, It was looking like this.
 
 I tried to use some designed endstops from thingiverse but It was not so convenient because it was lack of fine tune adjustment feature. So, I designed my own end stop for the z-axis in the end. I used sketchup for modeling. It can just attached to step motor and stays stable and also I added fine tuning mechanism to it. It is great to think about something and get it in your hand in minutes like that.
 
-![3dPrinter]({{ site.baseurl }}/assets/img/Printer/IMG_6760.png)
+![3dPrinter]({{ site.baseurl }}/assets/img/Printer/IMG_6760.PNG)
 
-![3dPrinter]({{ site.baseurl }}/assets/img/Printer/IMG_6759.png)
-
-
+![3dPrinter]({{ site.baseurl }}/assets/img/Printer/IMG_6759.PNG)
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

@@ -1,9 +1,9 @@
 ---
 layout: postGallery
 title:  "Commodore C286-LT Restoration"
-img: commodore/SDC10097.jpg
+img: commodore/SDC10097.JPG
 tags: [Project, DIY]
-gallery: [commodore/8.jpg, commodore/3.jpg, commodore/4.jpg, commodore/5.jpg, commodore/7.jpg, commodore/2.jpg, commodore/9.jpg, commodore/10.jpg, commodore/11.jpg, commodore/12.jpg, commodore/13.jpg, commodore/14.jpg, commodore/15.jpg]
+gallery: [commodore/8.JPG, commodore/3.jpg, commodore/4.jpg, commodore/5.jpg, commodore/7.jpg, commodore/2.jpg, commodore/9.JPG, commodore/10.JPG, commodore/11.JPG, commodore/12.JPG, commodore/13.JPG, commodore/14.JPG, commodore/15.JPG]
 wsgYoutubeId: Mb_8EBVqZBs
 ---
 I love flea markets and I always visit if I found one in everycity. When I was in my parent's place dad told me about the flea market that opened for 2 days nearby. I immediately went there and take a look around.
