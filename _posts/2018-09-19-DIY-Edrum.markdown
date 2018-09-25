@@ -25,7 +25,7 @@ Here you can see;
 
 I had 3 whole drums (1-tom, 2-floor tom and 3-kick drum)
 
-![Kick Drum](/assets/img/eDrum/akitaCome1.jpg "I kept the kick drum out of the setup because it was too big.")
+![Kick Drum](/assets/img/eDrum/100_3450.jpg "I kept the kick drum out of the setup because it was too big.")
 
 <br><br>
 
@@ -59,11 +59,12 @@ As a drum module first I used medeli dd-505. I bought it online. It was nice at 
 <br>
 {% include youtubePlayer.html id=page.eDrumTestYoutubeId2 %}
 <br>
+
 ![Final](/assets/img/eDrum/CIMG5068.jpg "Final version of the drum module")
 
 ![Final](/assets/img/eDrum/final.jpg "Final version of the whole drum")
 
-It was a perfect project which has extended my vision. I enjoyed all the steps that I took to built it. From the technical aspect; It was not as perfect as a high priced e-drum, but it was good enough to practice and improve your drumming.
+It was a perfect project which has extended my vision. I enjoyed all the steps that I took to build it. From the technical aspect; It was not as perfect as a high priced e-drum, but it was good enough to practice and improve your drumming.
 
 Thanks for reading.
 
