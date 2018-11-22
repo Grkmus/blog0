@@ -9,9 +9,9 @@ eDrumTestYoutubeId: 5nyWvtzhyjw
 eDrumTestYoutubeId2: A9RaYjOALTI
 ---
 
-I love to play drums. I really enjoy it and in 2010, I started to a project in order to playing drums in the Home. We have been living in an apartment flat and because it makes too much sound, I couldn't have the opportunity to play drums at home freely.
-While I was surfing in one drum related forum, I encounter with a title about converting acoustic drums to electronic drums. I red all the instructions and messages then I decided to build my own.
-Despite all the failure possibilities, I afford all the expenses(tools and materials that I need). Also, I didn't have any experiences about the subjects that included in the project. I gained so much skills while I was doing that. Electronic skills, soldering skills, mechanical skills and much more. I researched and learnt almost everything from internet.
+I love to play drums. I really enjoy it and in 2010, I started to a project in order to playing drums at Home. We have been living in an apartment flat and because it makes too much sound, I couldn't had the opportunity to play drums at home freely.
+While I was surfing in one drum related forum, I encountered with a title about converting acoustic drums to electronic drums. I red all the instructions and messages then I decided to build my own.
+Despite all the failure possibilities, I afforded all the expenses(tools and materials that I need). Also, I didn't had any experiences about the subjects that included in the project. I gained so much skills while I was doing that. Electronic skills, soldering skills, mechanical skills and much more. I researched and learnt almost everything from internet.
 
 Eventually; I managed to succesfully complete the drums. This was quite satisfactory for me. Most importantly; I made this with a little budget, besides that it isn't a cheap worhtless drum. It can compete with middle quality electronic drums on the market. The development of this Project still ongoing.
 
@@ -31,7 +31,7 @@ I had 3 whole drums (1-tom, 2-floor tom and 3-kick drum)
 
 ![Tom Divide](/assets/img/eDrum/100_3447.jpg "I divide the tom and floor tom into two.")
 
-Additionally, I bought another half drum from a friend as a snare drum. Also, I used old drum's pads as cymbals. Eventually,  I made some modifications on the rack system and finally it became like this;
+Additionally, I bought another half drum from a friend as a snare drum. Also, I used old drum's pads as cymbals. I made some modifications on the rack system and finally it became like this;
 
 ![Tom Divide](/assets/img/eDrum/CIMG5416.jpg "I divide the tom and floor tom into two.")
 
@@ -64,7 +64,7 @@ As a drum module first I used medeli dd-505. I bought it online. It was nice at 
 
 ![Final](/assets/img/eDrum/final.jpg "Final version of the whole drum")
 
-It was a perfect project which has extended my vision. I enjoyed all the steps that I took to build it. From the technical aspect; It was not as perfect as a high priced e-drum, but it was good enough to practice and improve your drumming.
+It was a perfect project which has extended my vision. I enjoyed all the steps that I took to build it. It didn't turned out as perfect as a high priced e-drum, but it was good enough to practice and improve your drumming.
 
 Thanks for reading.
 
