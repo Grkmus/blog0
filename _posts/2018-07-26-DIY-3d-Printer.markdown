@@ -4,7 +4,7 @@ title:  "Building a 3d Printer"
 img: printer/IMG_6702.jpg
 tags: [Project, DIY]
 ---
-Hi all, as 3d printers become so popular, I couldn't stay away without doing anything. At first, I have started to build CNC(computer numerical control)machine but before finishing it, I thought that it would be very noisy to use in my flat. Eventually, I decided to convert it to 3d printer.
+Hi all, as 3d printers became so popular, I couldn't stay away without doing anything. I had already started to build CNC(computer numerical control)machine but before finishing it, I thought that it would be very noisy to use in my flat then I decided to convert it to a 3d printer. The CNC and 3d printer have too much common things. Because the principle of how it works is actually same.
 
 The main key to become successful in this work is 'reading'. Read as much as you can on the internet. There are tons of information regarding to 3d printers and how to build them. I didn't need to ask even one question. I was able to find a solution to every problems that I came accross. My main source was  [reprap](https://reprap.org "reprap") and its forums.
 
@@ -17,11 +17,11 @@ I used Arduino Mega 256 with RAMPS shield for the electronics. Marvin is on the 
 
 After whole assembly process done, It was looking like this.
 
-I tried to use some designed endstops from thingiverse but It was not so convenient because it was lack of fine tune adjustment feature. So, I designed my own end stop for the z-axis in the end. I used sketchup for modeling. It can just attached to step motor and stays stable and also I added fine tuning mechanism to it. It is great to think about something and get it in your hand in minutes like that.
+I tried to use some already designed endstops from thingiverse but It was not so convenient because it was lack of fine tune adjustment feature. So, I designed my own end stop for the z-axis in the end. I used sketchup for modeling. It can just attached to step motor and stays stable and also I added fine tuning mechanism to it. It is great to think about something and get it in your hand in minutes like that.
 
-![3dPrinter]({{ site.baseurl }}/assets/img/printer/IMG_6760.png)
+![3dPrinter](/assets/img/printer/IMG_6760.png)
 
-![3dPrinter]({{ site.baseurl }}/assets/img/printer/IMG_6759.png)
+![3dPrinter](/assets/img/printer/IMG_6759.png)
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
