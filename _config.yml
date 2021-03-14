@@ -1,7 +1,7 @@
 title: My personal blog - Görkem Tosun
 email: gorkemtosun@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This Blog presents my various studies. I am an engineer, interested in programming, electronics, DIY and all kind of technology. 
+  This Blog presents my various studies. I am an engineer. Interested in programming, electronics, DIY and all kind of technology. 
   #Write an awesome description for your new site here. You can edit this
   #line in _config.yml. It will appear in your document head meta (for
   #Google search results) and in your feed.xml site description.
@@ -12,10 +12,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: Görkem Tosun # add your name
 author-pic: ProfilePic.jpg
-about-author: This Blog will present my various studies about almost everything that I am involved to.
+about-author: This Blog presents my various studies.
+  I am an engineer. Interested in programming, electronics, DIY and all kind of technology.
 
 # Contact links
-phone: +905554493747
 website: https://gorkemtosun.com
 linkedin: gorkemtosun
 github: grkmus # Add your Github handle
