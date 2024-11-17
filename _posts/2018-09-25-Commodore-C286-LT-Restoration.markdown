@@ -6,12 +6,13 @@ tags: [Project, DIY]
 gallery: [commodore/8.jpg, commodore/3.jpg, commodore/4.jpg, commodore/5.jpg, commodore/7.jpg, commodore/2.jpg, commodore/9.jpg, commodore/10.jpg, commodore/11.jpg, commodore/12.jpg, commodore/13.jpg, commodore/14.jpg, commodore/15.jpg]
 wsgYoutubeId: Mb_8EBVqZBs
 ---
-I love flea markets and I always visit if I found one in everycity. When I was in my parent's place dad told me about the flea market that opened for 2 days nearby. I immediately went there and take a look around.
-It was a rainy day and I was all wet but no problem. :) Then I saw a laptop looking device on one of the benches and got interested. It was 10 EUR at the first time but I negotiated with the seller because the device was also wet and was not sure that it is working or not. Anyway, I convinced him to pay him only 0.5 EUR. (very good negotiations skills..)
+I love flea markets and always visit them whenever I find one in a new city. While visiting my parents, my dad told me about a flea market nearby that was open for two days, so I went to check it out right away.
 
-I came home and disassembled all the parts on the laptop and leave it for one day to dry. On the next day, I assembled the parts and when I turned it on there were some blink in the monitor but not consistent. Searched online about that problem and someguys written about the same issue. There are analog fade control on the right side of the laptop. I suspected about it was not working well. I replaced with some potentiometer and it worked! It was really satisfactory to see some pixelated writings on the screen. :)
+It was a rainy day, and I got completely soaked—but no problem! :) While browsing, I spotted a laptop-like device on one of the tables that caught my interest. Initially, it was priced at 10 EUR, but I negotiated with the seller since the device was wet and I wasn’t sure if it even worked. In the end, I convinced him to sell it to me for only 0.5 EUR. (A true negotiation victory!)
 
-The computer is warning about the hard disk failure and I need to replace it with a new one cause obviously it is a hardware error. Also, it sounds weird while trying to read from the disk. I have found the same hard disk on some online store but don't have opportunity to order it to Turkey(High price and taxes). I will deal with that issue in another day. :)
+I brought it home, disassembled all the parts, and left them to dry overnight. The next day, I reassembled everything, and when I turned it on, the monitor flickered a bit but wasn’t consistent. I looked up the issue online and found a few people mentioning similar problems. There’s an analog fade control on the right side of the laptop, which I suspected was the culprit. I replaced it with a potentiometer, and it worked! It was incredibly satisfying to see pixelated text appear on the screen. :)
+
+The computer is now giving me a warning about hard disk failure. I’ll need to replace it eventually, as it’s clearly a hardware issue—the disk makes strange noises while trying to read. I found a replacement hard disk on an online store, but shipping it to Turkey is expensive due to high prices and taxes. I’ll tackle that issue another day. :)
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

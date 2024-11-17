@@ -4,20 +4,21 @@ title:  "Building a 3d Printer"
 img: printer/IMG_6702.jpg
 tags: [Project, DIY]
 ---
-Hi all, as 3d printers became so popular, I couldn't stay away without doing anything. I had already started to build CNC(computer numerical control)machine but before finishing it, I thought that it would be very noisy to use in my flat. So, I decided to convert it to a 3d printer. The CNC and 3d printer have too much in common. The principle behind is more or less the same.
+Hi everyone! With 3D printers becoming so popular, I couldn’t resist diving in myself. Originally, I started building a CNC (Computer Numerical Control) machine, but before I could finish, I realized it would be far too noisy for my apartment. So, I decided to convert it into a 3D printer. CNC machines and 3D printers have a lot in common—the underlying principles are very similar.
 
-There are tons of information about 3d printers and how to build them on the internet. I didn't need to ask even one question. I was able to find a solution to every problems that I encountered. My main source was  [reprap](https://reprap.org "reprap") and its sub forums.
+There’s a wealth of information online about building 3D printers, so I didn’t even need to ask questions. I managed to find solutions to every problem I faced, with [RepRap](https://reprap.org "reprap") and its sub-forums being my main sources. The model I chose was the Prusa i3 Steel. I went with this model because it’s more rigid and stable than other Prusa models. You can find all the necessary information and design files for it on reprap.org. Building a 3D printer isn’t as complicated as it might sound; the process is fairly straightforward. First, you need to decide on a model, keeping in mind the materials and parts you’ll need to source or make. I was lucky to find a good deal on some second-hand Prusa i3 Steel body parts online. They came from someone who had started the project but never finished. Before that, I had tried to build a wooden frame, but after considering the stability, I decided to switch.
 
-The model I picked was Prusa - i3 Steel. I decided to build that model because it is much more rigid and stable comparing to other prusa models. You can find all the necessary information and drawings about it in reprap.org. Building a 3d printer is not so complicated as it sounds. The process is relatively straightforward. First, you have to decide which model you are gonna make. You should consider supplying or manufacturing the materials and parts in your model. I found a good deal for proper second hand bodyparts of prusa i3 steel on internet and bought it. It was being sold by someone who started to build it but eventually gave up. Before that, I tried to build my own wooden frame but I decided to not to continue with it after considering the rigidity. 
- For the extruder's cold end, I ordered all the necessary parts from 3d hubs web site. Then I used it with some chinese hot end. Not suprisingly, it clogged after one or two experiments. So, I bought a fancy hot end from E3D company. I ordered E3D lite product. It is working quite well. I printed almost 200 hundred parts, changed 5 filament rolls, still working seemlessly. It is obvious that they pay attention to material quality and design of the product. So my suggestion to you, do not order some unknown 3d printer hot ends or equivalents. It is gonna make you frustrated because maintaining the 3d printer gonna be problematic.
+For the extruder’s cold end, I ordered all the necessary parts from 3D Hubs. I initially paired it with a budget hot end from China, but unsurprisingly, it clogged after a couple of prints. Eventually, I upgraded to an E3D Lite from the E3D company, which has been fantastic. So far, I’ve printed nearly 200 parts and gone through five filament rolls without any issues. The product’s design and material quality really stand out. If you’re building a 3D printer, I’d recommend avoiding unknown or cheap hot ends, as they can make maintenance frustrating.
 
-I used Arduino Mega 256 with RAMPS shield for the electronics. Marvin is on the firware side. I checked all the connections with multimeter before the assembly. I tested it out with 3 NEMA23 step motors. There were no problems.
+For the electronics, I used an Arduino Mega 256 with a RAMPS shield, with Marlin as the firmware. Before assembling, I checked all the connections with a multimeter and tested it using three NEMA23 stepper motors, and everything worked smoothly.
 
-![3dPrinter]({{ site.baseurl }}/assets/img/printer/IMG_6702.jpg)
+![3D Printer]({{ site.baseurl }}/assets/img/printer/IMG_6702.jpg)
 
-After whole assembly process done, It was looking like this.
+Once the assembly was complete, this is how it looked.
 
-I tried to use some designed endstops from thingiverse but It was lack of fine tune adjustment feature. So, I designed my own end stop for the z-axis in the end. I used sketchup for modeling. It can be attached to step motor and stays stable enough while the device is printing. I also added fine tune mechanism with a help of a screw to it. The result was great! All in all, It is so nice to think about something and get it in your hand in minutes like that.
+I initially tried using some end stops I found on Thingiverse, but they lacked fine-tuning adjustment. In the end, I designed my own Z-axis end stop in SketchUp, which can be attached to the step motor and remains stable during printing. I even added a fine-tune adjustment with a screw. It worked out great!
+
+Overall, it’s amazing to come up with an idea, create it, and hold it in your hands within minutes. The experience has been incredibly rewarding!
 
 ![3dPrinter](/assets/img/printer/IMG_6760.png)
 

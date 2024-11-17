@@ -9,39 +9,39 @@ eDrumTestYoutubeId: 5nyWvtzhyjw
 eDrumTestYoutubeId2: A9RaYjOALTI
 ---
 
-I love to play drums. I really enjoy it and in 2010, I started to a project in order to playing drums at Home. We have been living in an apartment flat and because it makes too much sound, I couldn't had the opportunity to play drums at home freely.
-While I was surfing in one drum related forum, I encountered with a title about converting acoustic drums to electronic drums. I red all the instructions and messages then I decided to build my own.
-Despite all the failure possibilities, I afforded all the expenses(tools and materials that I need). Also, I didn't had any experiences about the subjects that included in the project. I gained so much skills while I was doing that. Electronic skills, soldering skills, mechanical skills and much more. I researched and learnt almost everything from internet.
+I love playing the drums. It’s something I really enjoy, and in 2010, I started a project to make it possible to drum at home. Living in an apartment meant I couldn’t play freely due to the noise.
 
-Eventually; I managed to succesfully complete the drums. This was quite satisfactory for me. Most importantly; I made this with a little budget, besides that it isn't a cheap worhtless drum. It can compete with middle quality electronic drums on the market. The development of this Project still ongoing.
+While browsing a drum forum, I came across a guide on converting acoustic drums into electronic drums. I read through all the instructions and comments, then decided to build my own. Even though there were plenty of ways it could fail, I took on the challenge and covered the expenses for tools and materials. I didn’t have any prior experience in the skills this project required, so I learned a lot—electronics, soldering, mechanics, and more—all from the internet.
+
+In the end, I successfully completed the drum set, and it felt incredibly satisfying. Even better, I managed to do it on a small budget. Despite that, the drums I built are comparable to mid-range electronic drum sets on the market. The project is still a work in progress, with ongoing improvements.
 
 ## 1. Setup
 
-For this section I will write about the basic drum rack setup. To hold all the drums in the setup, I used my old akita come 1 rack system. It was kind of a drum toy  which my dad bought it to me as a birthday present. I took my first steps to drumming with that toy.
+In this section, I’ll go over the basic drum rack setup. To hold everything together, I used my old Akita Come 1 rack system. It was a toy drum set my dad got me as a birthday gift, and it’s what I first learned on.
 
-Here you can see;
+Here’s how it looked:
 
 ![Akita Come1](/assets/img/eDrum/akitaCome1.jpg)
 
-I had 3 whole drums (1-tom, 2-floor tom and 3-kick drum)
+I had three full drums (1 tom, 2 floor toms, and a kick drum).
 
 ![Kick Drum](/assets/img/eDrum/100_3450.jpg "I kept the kick drum out of the setup because it was too big.")
 
 <br><br>
 
-![Tom Divide](/assets/img/eDrum/100_3447.jpg "I divide the tom and floor tom into two.")
+![Tom Divide](/assets/img/eDrum/100_3447.jpg "I divided the tom and floor tom into two.")
 
-Additionally, I bought another half drum from a friend as a snare drum. Also, I used old drum's pads as cymbals. I made some modifications on the rack system and finally it became like this;
+Additionally, I got another half drum from a friend to use as a snare drum. I also repurposed the pads from the old toy drum set as cymbals. After some modifications to the rack, here’s the final setup:
 
-![Tom Divide](/assets/img/eDrum/CIMG5416.jpg "I divide the tom and floor tom into two.")
+![Tom Divide](/assets/img/eDrum/CIMG5416.jpg "I divided the tom and floor tom into two.")
 
 ## 2. Triggers
 
-Electronic drums works with triggers which located on the drum head. There is a lot of drum trigger designs. Some of them under the drums and some of them externally integrated with drums. In my setup, I build my own triggers with piezos. [Piezo](https://cdn.sparkfun.com//assets/parts/4/6/8/9/10293_01.jpg "Piezo") is an electronic component which basically converts vibration into electronic signals. Basic trigger design is making cone from foams and putting that foams on the piezo as you can see from below picture.(Picture collected from Vdrums forum)
+Electronic drums work by using triggers placed on the drum heads. There are various trigger designs, with some mounted beneath the drums and others externally integrated. For my setup, I built my own triggers using piezos. [A piezo](https://cdn.sparkfun.com//assets/parts/4/6/8/9/10293_01.jpg "Piezo") is a component that converts vibrations into electrical signals. The basic trigger setup involves creating foam cones and placing them on top of the piezo, as shown below (image from the Vdrums forum):
 
 ![Piezo](/assets/img/eDrum/piezo_dimensions.gif)
 
-I installed a rack under the drum heads to put that trigger on it.
+I installed a rack under the drum heads to hold the triggers.
 
 ![PiezoRack](/assets/img/eDrum/100_3448.jpg "Piezo trigger installation rack")
 
@@ -53,7 +53,7 @@ I installed a rack under the drum heads to put that trigger on it.
 
 ## 3. Drum Module
 
-As a drum module first I used medeli dd-505. I bought it online. It was nice at first but it doesn't provide enough sensivity. So, I decided to build my own drum module. There was a drum module schematic in the site that I encountered in the first place. [Admir's Site](http://edrum.info/ "eDrum") It is basically a midi trigger, which is gonna process the signals that comes from piezos and convert them into midi signals/notes to send to a computer according to their velocities. I failed at first but finally I manage to built it. I made the Printed Circuit Boards with ironing method, soldered all the components and done the wiring. I asked for help to install the given firmware to PIC from a local electronics store. I tested it with superiour drummer in cubase. You can see the below videos;
+At first, I used a Medeli DD-505 as the drum module, which I bought online. It worked fine initially but didn’t provide enough sensitivity. So, I decided to build my own module. I found a module schematic on the same website that inspired me to start. [Admir's Site](http://edrum.info/ "eDrum") describes a MIDI trigger that processes signals from the piezos and converts them into MIDI notes with velocities to send to a computer. After a few attempts, I managed to build it successfully. I created the printed circuit boards using the ironing method, soldered all the components, and completed the wiring. For the firmware installation on the PIC, I got help from a local electronics store. I tested it with Superior Drummer in Cubase, and you can check out the videos below:
 
 {% include youtubePlayer.html id=page.eDrumTestYoutubeId %}
 <br>
@@ -64,7 +64,7 @@ As a drum module first I used medeli dd-505. I bought it online. It was nice at 
 
 ![Final](/assets/img/eDrum/final.jpg "Final version of the whole drum")
 
-It was a perfect project which has extended my vision. I enjoyed all the steps that I took to build it. It didn't turned out as perfect as a high priced e-drum, but it was good enough to practice and improve your drumming.
+This was an incredible project that broadened my skills and perspective. I enjoyed every step of the process. It may not be as perfect as a high-end e-drum kit, but it’s more than good enough for practice and improving my drumming.
 
 Thanks for reading.
 
