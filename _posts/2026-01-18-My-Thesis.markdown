@@ -1,0 +1,54 @@
+---
+layout: post
+title: "My Thesis"
+img: documents/thesis-cover.jpg # Optional: add a cover image
+tags: [Academic, Research, Thesis]
+---
+
+I'm excited to share my thesis with you! You can view and download the complete document below.
+
+## Thesis Overview
+
+<!-- Add a brief description of your thesis here -->
+This thesis represents the culmination of my academic research and studies. 
+
+## View/Download Thesis
+
+<div class="pdf-container">
+  <embed src="{{site.baseurl}}/assets/documents/thesis.pdf" type="application/pdf" width="100%" height="800px" style="border: 1px solid #ddd; border-radius: 4px;">
+  
+  <div class="pdf-download-section" style="text-align: center; margin-top: 20px;">
+    <a href="{{site.baseurl}}/assets/documents/thesis.pdf" download="thesis.pdf" class="download-btn" style="display: inline-block; background: #007cba; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 10px;">
+      📄 Download PDF
+    </a>
+    <br>
+    <p style="font-size: 0.9em; color: #666; margin-top: 10px;">
+      <em>If the PDF doesn't display correctly above, you can 
+      <a href="{{site.baseurl}}/assets/documents/thesis.pdf" target="_blank">open it in a new tab</a>.</em>
+    </p>
+  </div>
+</div>
+
+<style>
+.pdf-container {
+  background: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  margin: 20px 0;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.download-btn:hover {
+  background: #005a87 !important;
+  color: white !important;
+}
+
+@media (max-width: 768px) {
+  .pdf-container embed {
+    height: 500px;
+  }
+}
+</style>
+
+<!-- Add any additional content about your thesis here -->
+Feel free to reach out if you have any questions or would like to discuss the research!
