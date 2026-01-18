@@ -16,24 +16,24 @@ layout: default
         {{page.content | markdownify}}
         
         <div class="container">
-          {% assign my_int = page.gallery | size %}
-          {% assign loop_no = my_int | divided_by: 3 %}
-          {% assign base_no = 0 %}
-          {% for i in (1..loop_no) %}
-            <div class="row">
-              {% for j in (0..2) %}
-                {% if base_no < my_int %}
-                  <div class="col-sm">
-                    <a href="{{ "/assets/img/" | prepend: site.baseurl | append: page.gallery[base_no] }}" data-lightbox="gallery">
-                      <img src="{{ "/assets/img/" | prepend: site.baseurl | append: page.gallery[base_no] }}" alt="Gallery Image">
-                    </a>
-                  </div>
-                  {% assign base_no = base_no | plus: 1 %}
-                {% endif %}
-              {% endfor %}
-            </div>
-            <br>
-          {% endfor %}
+          {% if page.gallery %}
+            {% for image in page.gallery %}
+              {% assign index = forloop.index0 %}
+              {% assign modulo = index | modulo: 3 %}
+              {% if modulo == 0 %}
+                <div class="row">
+              {% endif %}
+              <div class="col-sm">
+                <a href="{{ "/assets/img/" | prepend: site.baseurl | append: image }}" data-lightbox="gallery">
+                  <img src="{{ "/assets/img/" | prepend: site.baseurl | append: image }}" alt="Gallery Image">
+                </a>
+              </div>
+              {% if modulo == 2 or forloop.last %}
+                </div>
+                <br>
+              {% endif %}
+            {% endfor %}
+          {% endif %}
         </div>
         
         <div class="page-footer">
