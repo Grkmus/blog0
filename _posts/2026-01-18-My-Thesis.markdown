@@ -1,16 +1,19 @@
 ---
 layout: post
-title: "My Thesis"
-img: documents/thesis-cover.jpg # Optional: add a cover image
+title: "M.Sc. THESIS"
+img: thesis/thesis_cover.jpg # Optional: add a cover image
 tags: [Academic, Research, Thesis]
 ---
+Here I would like to showcase my Master's thesis where I enjoyed studying on it. I wanted to blend all my knowledge that I gathered throughout the years in my career and studies. I was working in a company which heavily involved in BIM and I had quite some interest in GIS. Furthermore, I wanted to develop myself on software and learn it in detail by getting hands on experience. So this topic was the best candidate. This made it possible for me to have a smooth entrance to software engineering world. My thesis subject were:
 
-I'm excited to share my thesis with you! You can view and download the complete document below.
+BIM-GIS INTEGRATION FOCUSED ON INDOOR NAVIGATION:
+AUTOMATIC DERIVATION OF NAVIGATION NETWORK
 
 ## Thesis Overview
 
 <!-- Add a brief description of your thesis here -->
-This thesis represents the culmination of my academic research and studies. 
+In my masters thesis; the process of network derivation from an Industry Foundation Class (IFC) file of a building has been examined and attempts for creating a generic data pipeline from building model to the indoor spatial space network have been conducted. The Building Information Model of Istanbul Technical University Civil Engineering Faculty has been used as a test building for this purpose. After various geometrical manipulations within FME, six different networks have been obtained from this model. The derived networks have been compared with each other in terms of several aspects such as reliability, performance and efforts to generate. Finally, Medial Axis Transform (MAT) On Unified Polygon Network was chosen to be used
+in a prototype application that has been developed in a 3D GIS environment with the capability of creating route plans according to user profiles. For the application layer, Cesium JS has been used and all necessary data has been brought to the Cesium environment. With this manner, BIM – GIS integration has been successfully established.
 
 ## View/Download Thesis
 
