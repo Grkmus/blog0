@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "M.Sc. THESIS"
-img: thesis/thesis_cover.jpg # Optional: add a cover image
+img: thesis/thesis_cover.png # Optional: add a cover image
 tags: [Academic, Research, Thesis]
 ---
 Here I would like to showcase my Master's thesis where I enjoyed studying on it. I wanted to blend all my knowledge that I gathered throughout the years in my career and studies. I was working in a company which heavily involved in BIM and I had quite some interest in GIS. Furthermore, I wanted to develop myself on software and learn it in detail by getting hands on experience. So this topic was the best candidate. This made it possible for me to have a smooth entrance to software engineering world. My thesis subject were:
